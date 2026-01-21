@@ -1,0 +1,5 @@
+{
+  "name": "DocuMind: Bulk PDF Intelligence",
+  "description": "An intelligent PDF extraction and interrogation tool. Upload bulk documents to extract structured data and chat with your entire collection to find specific insights like 'What did Jane say in her letters?'",
+  "requestFramePermissions": []
+}
